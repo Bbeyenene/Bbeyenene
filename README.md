@@ -1,7 +1,10 @@
-
-### 👋 "The key to pursuing excellence is to embrace an organic, long-term learning process, and not to live in a shell of static, safe mediocrity. Usually, growth comes at the expense of previous comfort or safety." 
-### — Josh Waitzkin
-
+<div style='display:flex;justify-content: space-between;'>
+    <div style='width:75%;background-color:#005F5F;padding:15px;magin-wright:5%'>
+        👋 "The key to pursuing excellence is to embrace an organic, long-term learning process, and not to live in a shell of static, safe mediocrity. Usually, growth comes at the expense of previous comfort or safety." </br>
+            — Josh Waitzkin
+    </div>
+    <img src="D-D.jpg" alt="drawing"  width='15%' hieght='20%'/>
+</div>
 <!--
 **Bbeyenene/Bbeyenene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
