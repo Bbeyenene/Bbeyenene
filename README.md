@@ -1,5 +1,5 @@
 ### Hi there 👋
-"The key to pursuing excellence is to embrace an organic, long-term learning process, and not to live in a shell of static, safe mediocrity. Usually, growth comes at the expense of previous comfort or safety." 
+"The key to pursuing excellence is to embrace an organic, long-term learning process, and not to live in a shell of static, safe mediocrity. Usually, growth comes at the expense of previous comfort or safety."  👋
 — Josh Waitzkin
 
 <!--
